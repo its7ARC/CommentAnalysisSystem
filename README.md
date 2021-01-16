@@ -13,7 +13,7 @@ The model has
 Usage instructions-
 - Load the 'sentiment model.h5' and 'vocabFile.txt' for prediction of sentiments directly (Without training model again)
 - Run cells after 'Overall Model Deployment' in https://github.com/its7ARC/commentAnalysisSystem/blob/master/commentAnalysis.ipynb; 
-- Comments shall be entered into the system by appnending comments to corpus in 'In27'. 
+- Comments shall be entered into the system by appnending comments to 'corpus' in 'In27'. 
 
 Model Output: 
 - 'In29' 
