@@ -11,8 +11,7 @@ The model has
 - Expected Utilisation Of Server = 0.675
 
 Usage instructions-
-- Load the 'sentiment model.h5' and 'vocabFile.txt' for prediction of sentiments directly(without training model again).
-- ie- run cells after 'loadModel and Predicting' only; 
+- Load the 'sentiment model.h5' and 'vocabFile.txt' for prediction of sentiments directly(without training model again). ie- run cells after 'loadModel and Predicting' only in https://github.com/its7ARC/commentAnalysisSystem/blob/master/commentAnalysis.ipynb; 
 
 Dataset: https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
