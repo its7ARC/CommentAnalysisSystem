@@ -1,7 +1,7 @@
 # Comment Analysis System
 Model for Sentiment analysis and filtering of offensive comments on social media.
 
-Sentiment analysis has been performed using a LSTM model. This model has been trained and tested on 25000 film reviews each of the imdb dataset and has an accuracy of 83.18% for prediction of positive(1)/negative(0) comments.
+Sentiment analysis has been performed using a # LSTM model. This model has been trained and tested on 25000 film reviews each of the imdb dataset and has an accuracy of 83.18% for prediction of positive(1)/negative(0) comments.
 
 
 The LSTM model has been tested for production environment using a Single server queuing system with a server traffic of 50 comments/second(equal to youtube).   
