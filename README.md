@@ -12,7 +12,7 @@ The model has
 
 Usage instructions-
 - Load the 'sentiment model.h5' and 'vocabFile.txt' for prediction of sentiments directly (Without training model again)
-- Run cells after 'Overall Model Deployment' in https://github.com/its7ARC/commentAnalysisSystem/blob/master/commentAnalysis.ipynb; 
+- Run cells after 'Overall Model Deployment' in [Model](https://github.com/its7ARC/commentAnalysisSystem/blob/master/commentAnalysis.ipynb); 
 - Comments shall be entered into the system by appnending comments to corpus in 'In27'. 
 
 Model Output: 
@@ -20,6 +20,6 @@ Model Output:
 - 1-> Positive, 0-> Negative
 - Filtered comments do not pass through the model.
 
-Dataset: https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+Dataset: [Dataset](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
-Detailed Project Report: https://github.com/its7ARC/commentAnalysisSystem/blob/master/Comment%20Analysis%20System.pdf
+Detailed Project Report: [Project Report](https://github.com/its7ARC/commentAnalysisSystem/blob/master/Comment%20Analysis%20System.pdf)
