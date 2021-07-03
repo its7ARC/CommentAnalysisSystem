@@ -22,6 +22,6 @@ Model Output:
 
 Dataset: [Dataset](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
-Project PPT: [PPT](https://www.canva.com/design/DAEOmSBDyEA/bI3s17lV8W31GeV3Ecm6pA/edit)
+Project PPT: [PPT](https://github.com/its7ARC/CommentAnalysisSystem/blob/master/Comment%20Analysis%20System_PPT.pdf)
 
 Detailed Project Report: [Project Report](https://github.com/its7ARC/commentAnalysisSystem/blob/master/Comment%20Analysis%20System.pdf)
